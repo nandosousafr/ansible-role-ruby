@@ -7,4 +7,3 @@ __ruby_packages:
 __ruby_build_packages:
   - '@development'
   - zlib-devel
-  - openssl-static
